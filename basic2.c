@@ -10,7 +10,8 @@ int main(void){
     int a;
 
     printf("please enter a number : ");
-    scanf("%d",&a);
+    
+    scanf("%s",&a);
 
     int res=pow4(a);
     

@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main (void )
 {
-    printf("hello , vivek");
+    int a;
+    int b;
+    
 }
